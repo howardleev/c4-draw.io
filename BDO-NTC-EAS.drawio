@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T06:36:53.766Z" agent="5.0 (Windows)" etag="q2E9ojWK3JRjy_PrvT6r" version="13.6.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-09-10T06:43:37.407Z" agent="5.0 (Windows)" etag="QzpvOIcgETzaX88_2oCd" version="13.6.9" type="github" pages="5">
   <diagram id="BH5cA6w0LtP4S3J9wWy8" name="Context Diagram">
     <mxGraphModel dx="1720" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,9 +89,9 @@
             <mxGeometry x="-210" y="290" width="860" height="430" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="NTC Solution " c4Type="Windows Scheduled Task" c4Description="Main Tasks&#xa;Extraction tool1&#xa;Extraction tool2&#xa;API Integration to Finscore&#xa;NTC Scoring Matrix&#xa;ETL Tool" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="37u92q2vZKkqw5dop6tL-0">
+        <object placeholders="1" c4Name="NTC Custom Service" c4Type="Windows Scheduled Task" c4Description="Main Tasks of this service are:&#xa;1. Extract and send GR02 Apps to BDO&#xa;2. Extract apps for NTC scoring&#xa;3. API Integration to Finscore&#xa;4. Run NTC Scoring Matrix&#xa;5. Create and send Final NTC Decision Report to BDO" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="37u92q2vZKkqw5dop6tL-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="hT9_Gym_UWLrRdgtbFhu-1">
-            <mxGeometry x="200" y="320" width="260" height="150" as="geometry" />
+            <mxGeometry x="180" y="320" width="280" height="150" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="BDO CO" c4Type="Person" c4Description="Credit officer/&#xa;Manager" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="GxmO7wgZ9uiVb8l-BIQO-0">
@@ -99,7 +99,7 @@
             <mxGeometry x="70" y="50" width="110.00000000000001" height="140" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="CSV via SFTP" c4Description="Show GR02 applicants&#xa;from CO_REV Queue &#xa;(Candiates for NTC Rescoring)" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="EHQLHGRBoOZNIH0Q0aw6-0">
+        <object placeholders="1" c4Type="Relationship" c4Technology="CSV via SFTP (SOD)" c4Description="Show GR02 applicants&#xa;from CO_REV Queue &#xa;(Candiates for NTC Rescoring)" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="EHQLHGRBoOZNIH0Q0aw6-0">
           <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="hT9_Gym_UWLrRdgtbFhu-1" source="37u92q2vZKkqw5dop6tL-0" target="GxmO7wgZ9uiVb8l-BIQO-0">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="40.940000000000055" y="420.75" as="sourcePoint" />
@@ -108,7 +108,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="EAS" c4Type="Software System" c4Description="Platform used primarily by BDO for their acquisition. Champion flow will be the as-in flow of BDO-EAS " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="3ccV-9EN9dXnV1siWjyV-0">
+        <object placeholders="1" c4Name="EAS" c4Type="Software System" c4Description="Platform used primarily by BDO for their acquisition. " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="3ccV-9EN9dXnV1siWjyV-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="hT9_Gym_UWLrRdgtbFhu-1">
             <mxGeometry x="-160" y="320" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
@@ -141,7 +141,7 @@
             <mxGeometry x="-160" y="530" width="160" height="140" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="SQL" c4Description="Write all applicants &#xa;from Cut into Queue" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="ouHr7YfOHY1JruKniugX-0">
+        <object placeholders="1" c4Type="Relationship" c4Technology="SQL" c4Description="Write all applicants &#xa;from CO_REV Queue" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="ouHr7YfOHY1JruKniugX-0">
           <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hT9_Gym_UWLrRdgtbFhu-1" target="dQQWRE3NxCzeBafHUe2M-0">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="-80.71" y="430" as="sourcePoint" />
@@ -149,15 +149,14 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="via Task Scheduler (EOD)" c4Description="Extract filtered &#xa;applications" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="gEBUWl91GFjIbVH0hMfr-0">
+        <object placeholders="1" c4Type="Relationship" c4Technology="via Task Scheduler (EOD)" c4Description="Extract filtered applications:&#xa;*GR02 apps&#xa;*Updated by COM acct&#xa;*Updated within the day" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="gEBUWl91GFjIbVH0hMfr-0">
           <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hT9_Gym_UWLrRdgtbFhu-1" source="37u92q2vZKkqw5dop6tL-0" target="dQQWRE3NxCzeBafHUe2M-0">
             <mxGeometry x="0.1045" width="160" relative="1" as="geometry">
               <mxPoint x="10" y="457.5" as="sourcePoint" />
               <mxPoint x="-100" y="749.9999999999998" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="60" y="358" />
-                <mxPoint x="60" y="460" />
-                <mxPoint x="60" y="600" />
+                <mxPoint x="120" y="358" />
+                <mxPoint x="120" y="600" />
               </Array>
               <mxPoint as="offset" />
             </mxGeometry>
@@ -174,7 +173,7 @@
               <mxPoint x="610" y="590" as="sourcePoint" />
               <mxPoint x="690" y="360" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="390" y="760" />
+                <mxPoint x="380" y="758" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -185,7 +184,7 @@
               <mxPoint x="524.01" y="490" as="sourcePoint" />
               <mxPoint x="360" y="540" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="249" y="810" />
+                <mxPoint x="233" y="810" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -195,7 +194,7 @@
             <mxGeometry x="450" y="490" width="160" height="140" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="SQL" c4Description="Write NTC+TU&#xa;Scoring" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="qUuzhICuQ045Rr804bNP-0">
+        <object placeholders="1" c4Type="Relationship" c4Technology="SQL" c4Description="Write Final &#xa;NTC Decision" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="qUuzhICuQ045Rr804bNP-0">
           <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.013;exitY=0.39;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="hT9_Gym_UWLrRdgtbFhu-1" source="37u92q2vZKkqw5dop6tL-0" target="bNmlYgDyzs24G5dRwoP9-0">
             <mxGeometry x="-0.2498" y="-31" width="160" relative="1" as="geometry">
               <mxPoint x="420" y="520" as="sourcePoint" />
@@ -207,7 +206,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="CSV via SMTP&#xa;(MDP) via SFTP" c4Description="Receive &#xa;TU + NTC Score Report&#xa;" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="25d5JoBxX6cBeZxF8CrF-0">
+        <object placeholders="1" c4Type="Relationship" c4Technology="CSV via SMTP&#xa;(MDP) via SFTP" c4Description="Receive &#xa;Final NTC Decision Report&#xa;" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="25d5JoBxX6cBeZxF8CrF-0">
           <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.031;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hT9_Gym_UWLrRdgtbFhu-1" source="37u92q2vZKkqw5dop6tL-0" target="GxmO7wgZ9uiVb8l-BIQO-0">
             <mxGeometry x="0.3864" width="160" relative="1" as="geometry">
               <mxPoint x="330" y="30" as="sourcePoint" />
