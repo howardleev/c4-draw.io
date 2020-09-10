@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T08:01:59.710Z" agent="5.0 (Windows)" etag="KpxkzpALrJXOog-GzLiH" version="13.6.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-10T08:14:57.559Z" agent="5.0 (Windows)" etag="L7sQp_W2ky7tjxEvQYmM" version="13.6.9" type="github" pages="3">
   <diagram id="BH5cA6w0LtP4S3J9wWy8" name="Context Diagram">
-    <mxGraphModel dx="2111" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2111" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="1.CSV via SFTP &#xa;2.EAS COM Acct" c4Description="Receive Applicants&#xa;from CO_REV Queue " label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="xN4kWHh51-cI1xFCAfzF-3">
+        <object placeholders="1" c4Type="Relationship" c4Technology="1.CSV via SFTP &#xa;2.EAS Acct" c4Description="Receive Applicants&#xa;from CO_REV Queue " label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="xN4kWHh51-cI1xFCAfzF-3">
           <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vh95pBZR6eIjPIwUwSS7-10" target="Vh95pBZR6eIjPIwUwSS7-1">
             <mxGeometry x="0.2139" width="160" relative="1" as="geometry">
               <mxPoint x="-267.5" y="355" as="sourcePoint" />
@@ -68,7 +68,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="EAS COM Acct" c4Description="Picks applicants&#xa;for NTC Scoring&#xa;(Challenger Flow)" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="HJMhBryUnz1DlV29utVQ-2">
+        <object placeholders="1" c4Type="Relationship" c4Technology="EAS Acct" c4Description="Picks applicants&#xa;for NTC Scoring&#xa;(Challenger Flow)" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="HJMhBryUnz1DlV29utVQ-2">
           <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vh95pBZR6eIjPIwUwSS7-1" target="Vh95pBZR6eIjPIwUwSS7-10">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="-25" y="199.99999999999994" as="sourcePoint" />
@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZKxUWZSnLDFVGz_a9ExP" name="LVL1:">
-    <mxGraphModel dx="2111" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2111" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hT9_Gym_UWLrRdgtbFhu-0" />
         <mxCell id="hT9_Gym_UWLrRdgtbFhu-1" parent="hT9_Gym_UWLrRdgtbFhu-0" />
@@ -99,7 +99,7 @@
             <mxGeometry x="70" y="50" width="110.00000000000001" height="140" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="CSV via SFTP (SOD)" c4Description="Show GR02 applicants&#xa;from CO_REV Queue &#xa;(Candiates for NTC Rescoring)" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="EHQLHGRBoOZNIH0Q0aw6-0">
+        <object placeholders="1" c4Type="Relationship" c4Technology="CSV via SFTP (SOD)" c4Description="Show GR02 applicants&#xa;from CO_REV Queue &#xa;(Candidates for NTC Rescoring)" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="EHQLHGRBoOZNIH0Q0aw6-0">
           <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="hT9_Gym_UWLrRdgtbFhu-1" source="37u92q2vZKkqw5dop6tL-0" target="GxmO7wgZ9uiVb8l-BIQO-0">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="40.940000000000055" y="420.75" as="sourcePoint" />
@@ -113,7 +113,7 @@
             <mxGeometry x="-160" y="320" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="EAS COM Acct" c4Description="Show ALL applicants &#xa;from CO_REV Queue&#xa;" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="1cxYHh-_L3jBsOSI1QAR-0">
+        <object placeholders="1" c4Type="Relationship" c4Technology="EAS Acct" c4Description="Show ALL applicants &#xa;from CO_REV Queue&#xa;" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="1cxYHh-_L3jBsOSI1QAR-0">
           <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="hT9_Gym_UWLrRdgtbFhu-1" source="3ccV-9EN9dXnV1siWjyV-0" target="GxmO7wgZ9uiVb8l-BIQO-0">
             <mxGeometry x="0.0047" y="-6" width="160" relative="1" as="geometry">
               <mxPoint x="-190" y="440" as="sourcePoint" />
@@ -238,11 +238,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IEk77Ngnxe2xVnEHTHIu" name="LV2:">
-    <mxGraphModel dx="2334" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2334" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tVnu-UGthYwLhoXiBnp2-0" />
         <mxCell id="tVnu-UGthYwLhoXiBnp2-1" parent="tVnu-UGthYwLhoXiBnp2-0" />
-        <object placeholders="1" c4Name="NTC Custom Application" c4Type="ExecutionEnvironment" c4Application="Windows Scheduled Task" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="YwaSQJJlSJJ4P1g5Ae3p-0">
+        <object placeholders="1" c4Name="NTC Custom Service&#xa;" c4Type="ExecutionEnvironment" c4Application="Windows Scheduled Task" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="YwaSQJJlSJJ4P1g5Ae3p-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="tVnu-UGthYwLhoXiBnp2-1">
             <mxGeometry x="-190" y="160" width="740" height="690" as="geometry" />
           </mxCell>
@@ -262,7 +262,7 @@
             <mxGeometry x="-385" y="280" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="EAS COM Acct" c4Description="&#xa;Show applicants &#xa;from CO_REV Queue&#xa;" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="xVl4WOLyOaCczIZO7i75-2">
+        <object placeholders="1" c4Type="Relationship" c4Technology="EAS Acct" c4Description="&#xa;Show applicants &#xa;from CO_REV Queue&#xa;" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="xVl4WOLyOaCczIZO7i75-2">
           <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="tVnu-UGthYwLhoXiBnp2-1" source="xVl4WOLyOaCczIZO7i75-1" target="xVl4WOLyOaCczIZO7i75-0">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="-250" y="300" as="sourcePoint" />
@@ -303,7 +303,7 @@
             <mxGeometry x="-90" y="460" width="160" height="140" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="technology?" c4Description="Extract all applications &#xa;updated by COM &#xa;during the day&#xa;via Task Scheduler&#xa;extracted in the E0D" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="xVl4WOLyOaCczIZO7i75-7">
+        <object placeholders="1" c4Type="Relationship" c4Technology="" c4Description="Extract all applications &#xa;updated by COM &#xa;during the day&#xa;via Task Scheduler&#xa;extracted in the E0D" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="xVl4WOLyOaCczIZO7i75-7">
           <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tVnu-UGthYwLhoXiBnp2-1" source="xVl4WOLyOaCczIZO7i75-6" target="xVl4WOLyOaCczIZO7i75-4">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="45" y="550" as="sourcePoint" />
@@ -361,7 +361,7 @@
         </object>
         <object placeholders="1" c4Name="Finscore" c4Type="Software System" c4Description="NTC Provider" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="PyzXmG7ieF8EkeCiCp3X-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="tVnu-UGthYwLhoXiBnp2-1">
-            <mxGeometry x="670" y="720" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="670" y="640" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="JSON" c4Description="Request Telco Score" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="PyzXmG7ieF8EkeCiCp3X-1">
@@ -378,7 +378,7 @@
               <mxPoint x="429.01" y="480" as="sourcePoint" />
               <mxPoint x="500" y="850" as="targetPoint" />
               <Array as="points">
-                <mxPoint x="750" y="880" />
+                <mxPoint x="700" y="800" />
                 <mxPoint x="310" y="880" />
                 <mxPoint x="310" y="840" />
               </Array>
