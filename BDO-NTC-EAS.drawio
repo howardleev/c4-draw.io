@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T07:20:34.925Z" agent="5.0 (Windows)" etag="O2zQoy1WalACBFpCEd2t" version="13.6.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-10T07:49:45.233Z" agent="5.0 (Windows)" etag="07hvceOWtVXlbvtqTsdu" version="13.6.9" type="github" pages="3">
   <diagram id="BH5cA6w0LtP4S3J9wWy8" name="Context Diagram">
-    <mxGraphModel dx="1720" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2111" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZKxUWZSnLDFVGz_a9ExP" name="LVL1:">
-    <mxGraphModel dx="1720" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2651" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hT9_Gym_UWLrRdgtbFhu-0" />
         <mxCell id="hT9_Gym_UWLrRdgtbFhu-1" parent="hT9_Gym_UWLrRdgtbFhu-0" />
@@ -231,11 +231,14 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <mxCell id="k3chfqWOKIHEiO1Mzkhq-0" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;MVP: Most Viable Product (Required)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;MDP: Most Desirable Product (nice to have)&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;*Unless it is stated as MDP, all flows are MVP&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hT9_Gym_UWLrRdgtbFhu-1">
+          <mxGeometry x="430" y="160" width="520" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="IEk77Ngnxe2xVnEHTHIu" name="LV2:">
-    <mxGraphModel dx="1720" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2334" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tVnu-UGthYwLhoXiBnp2-0" />
         <mxCell id="tVnu-UGthYwLhoXiBnp2-1" parent="tVnu-UGthYwLhoXiBnp2-0" />
