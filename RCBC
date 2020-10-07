@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T06:28:29.491Z" agent="5.0 (Windows)" version="13.7.1" etag="cAvZHmVbBKmPgTB0Ify6" type="github"><diagram id="W-iaXoDQG31dEEfiwWex">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-07T10:36:53.777Z" agent="5.0 (Windows)" etag="-3I_9arDq_PLCTRIKfQ7" version="13.7.1" type="github">
+  <diagram id="W-iaXoDQG31dEEfiwWex" name="Page-1">
+    <mxGraphModel dx="1792" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-2" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_FinalDecision&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="790" y="340" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-3" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_DecisionLevels&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-4" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_Segmentation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="145" y="340" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-5" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;S_FlowBureauCall_AQM_PH&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Flow)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="340" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-6" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_InputValidationDDE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="180" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-7" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_Initialize&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="40" width="280" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
