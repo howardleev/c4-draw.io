@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T06:41:07.843Z" agent="5.0 (Windows)" etag="ChlaRwSjeH1TW0yfoqV3" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T06:43:18.718Z" agent="5.0 (Windows)" etag="KtljWGQpT5UpVIA3tVN_" version="13.7.7" type="github">
   <diagram id="W-iaXoDQG31dEEfiwWex" name="Page-1">
-    <mxGraphModel dx="998" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1198" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,10 +74,15 @@
           <mxGeometry x="355" y="525" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cTXsdor2jvqyHHw4UVE2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cTXsdor2jvqyHHw4UVE2-18" target="cTXsdor2jvqyHHw4UVE2-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="180" />
+              <mxPoint x="360" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="cTXsdor2jvqyHHw4UVE2-18" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;F_TSOBureauCall&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Flow)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Reuse)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="345" y="40" width="250" height="100" as="geometry" />
+        <mxCell id="cTXsdor2jvqyHHw4UVE2-18" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;F_TSOBureauCall&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Flow/Solution)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Reuse)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="355" y="40" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
