@@ -1,26 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T10:36:53.777Z" agent="5.0 (Windows)" etag="-3I_9arDq_PLCTRIKfQ7" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T01:03:31.371Z" agent="5.0 (Windows)" etag="m5Zcm3UCp9kv665gjE3Q" version="13.7.7" type="github">
   <diagram id="W-iaXoDQG31dEEfiwWex" name="Page-1">
-    <mxGraphModel dx="1792" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="1592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w37uSaEj-Ux93n4jAKJF-2" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_FinalDecision&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="790" y="340" width="250" height="100" as="geometry" />
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-4" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_Segmentation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="150" y="340" width="360" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="w37uSaEj-Ux93n4jAKJF-3" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_DecisionLevels&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="480" y="340" width="280" height="100" as="geometry" />
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-2" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_FinalDecision&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="820" y="375" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="w37uSaEj-Ux93n4jAKJF-4" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_Segmentation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="145" y="340" width="280" height="100" as="geometry" />
+        <mxCell id="cTXsdor2jvqyHHw4UVE2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w37uSaEj-Ux93n4jAKJF-3" target="w37uSaEj-Ux93n4jAKJF-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w37uSaEj-Ux93n4jAKJF-5" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;S_FlowBureauCall_AQM_PH&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Flow)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="340" width="280" height="100" as="geometry" />
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-3" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_DecisionLevels&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="510" y="200" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="w37uSaEj-Ux93n4jAKJF-6" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_InputValidationDDE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="180" width="280" height="100" as="geometry" />
+        <mxCell id="cTXsdor2jvqyHHw4UVE2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cTXsdor2jvqyHHw4UVE2-8" target="w37uSaEj-Ux93n4jAKJF-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w37uSaEj-Ux93n4jAKJF-7" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_Initialize&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="40" width="280" height="100" as="geometry" />
+        <mxCell id="cTXsdor2jvqyHHw4UVE2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cTXsdor2jvqyHHw4UVE2-8" target="w37uSaEj-Ux93n4jAKJF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-5" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;S_FlowBureauCall_AQM_PH&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Flow)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="350" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-6" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_InputValidationDDE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="160" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w37uSaEj-Ux93n4jAKJF-7" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;G_Initialize&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(group)&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="-20" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cTXsdor2jvqyHHw4UVE2-5" value="YCG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cTXsdor2jvqyHHw4UVE2-7" value="B_Initialize_&#xa;Segmentation_&#xa;Variables&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cTXsdor2jvqyHHw4UVE2-8" value="R_Segmentation" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
