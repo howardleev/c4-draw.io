@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T06:44:27.957Z" agent="5.0 (Windows)" etag="4rOzcXbm3mJ2UnBNZVK7" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T06:53:18.872Z" agent="5.0 (Windows)" etag="fjWWv6kl5o8r8gvT5JSx" version="13.7.7" type="github">
   <diagram id="W-iaXoDQG31dEEfiwWex" name="Page-1">
-    <mxGraphModel dx="1198" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,16 +73,17 @@
         <mxCell id="cTXsdor2jvqyHHw4UVE2-16" value="B_Initialize_&#xa;Decision_&#xa;Variables&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="355" y="525" width="115" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cTXsdor2jvqyHHw4UVE2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cTXsdor2jvqyHHw4UVE2-18" target="cTXsdor2jvqyHHw4UVE2-7">
+        <mxCell id="cTXsdor2jvqyHHw4UVE2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cTXsdor2jvqyHHw4UVE2-18" target="cTXsdor2jvqyHHw4UVE2-7">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="160" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="480" y="180" />
               <mxPoint x="360" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cTXsdor2jvqyHHw4UVE2-18" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;S_TSOBureauCall&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Solution)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Create a solution for F_TSOBureauCall)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="355" y="40" width="250" height="100" as="geometry" />
+        <mxCell id="cTXsdor2jvqyHHw4UVE2-18" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;S_TSOBureauCall&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Solution)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Create a solution for F_TSOBureauCall)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;*Get the solution Ravi made from Bankard*&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="355" y="30" width="265" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
