@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T06:43:18.718Z" agent="5.0 (Windows)" etag="KtljWGQpT5UpVIA3tVN_" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T06:44:27.957Z" agent="5.0 (Windows)" etag="4rOzcXbm3mJ2UnBNZVK7" version="13.7.7" type="github">
   <diagram id="W-iaXoDQG31dEEfiwWex" name="Page-1">
     <mxGraphModel dx="1198" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cTXsdor2jvqyHHw4UVE2-18" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;F_TSOBureauCall&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Flow/Solution)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Reuse)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="cTXsdor2jvqyHHw4UVE2-18" value="«component»&lt;br&gt;&lt;div&gt;&lt;b&gt;S_TSOBureauCall&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Solution)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Create a solution for F_TSOBureauCall)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="355" y="40" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
